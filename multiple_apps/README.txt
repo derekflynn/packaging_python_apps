@@ -2,7 +2,7 @@ Contents of README.txt:
 
 This is a sample application using the framework described here:
 
-    http:////
+    https://medium.com/@DerekFlynn/packaging-python-applications-239fafee18d4
 
 If everything is set up correctly, you should just be able to type
 "make" and get a app.pyz (a zip archive with the file extension .pyz
