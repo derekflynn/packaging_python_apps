@@ -1,0 +1,10 @@
+shared: &shared
+    version: "v1.1"
+ping:
+    module: ping.main
+    config:
+        <<: *shared
+pong:
+    module: pong.main
+    config:
+        <<: *shared
